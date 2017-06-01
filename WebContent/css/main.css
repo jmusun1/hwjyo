@@ -1,0 +1,96 @@
+
+/* PGE website colors are #ffa101 (yellow) and #0189c5 (blue) */
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding-right: 14px ; 
+  text-transform: uppercase;
+}
+.nav{
+	background-color: lightblue;
+	padding-top: 9px;
+}
+.nav li {
+  display: inline;
+}
+#bill_totals {
+	font-weight:bold;
+}
+
+h1{
+	background: #0189c5;
+	text-align: center;
+	border-radius: 5px;
+	color: white;
+ 	margin-top: 15px; 
+ 	box-shadow: 5px 5px 3px grey;
+	
+}
+#left-column{
+	background-color: #ffa101;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 10px;
+	border-radius: 10px;
+	box-shadow: 10px 10px 5px grey;
+}
+
+#submit-button{
+	background-color: #0189c5;
+	border-radius: 3px;
+	margin-bottom: 10px;
+	margin-left: 25px;
+}
+#form_alert{
+	background-color: #ffa101;
+	border-width: 0px;
+	font-weight: bold;
+	font-size: 16px;
+}
+#bill_totals{
+	padding-top: 20px;
+}
+#disclaimer{
+	color: grey;
+	font-style: italic;
+	display: inline-block;
+}
+#row2{
+	margin-top: 20px;
+}
+.tooltip > .tooltip-inner{
+	background-color: #0189c5;
+	max-width: 250px;
+	 
+}
+.temp-pics{
+	margin-top: 50px;
+}
+img{
+	border: 2px solid #0189c5;
+	border-radius: 5px;
+}
+
+.popover {
+	width: 800px;
+	max-width: 1000px;
+}
+.carousel-indicators li {
+  background-color: #0189c5;
+}
+.carousel-indicators .active {
+  background-color: #FF7600;
+}
+.carousel-caption{
+	color: #000000;
+	font-weight: bold;
+	color: red;
+
+}
+/* #caption{
+	 background: rgba(128,128,128,.5); 
+	 border-radius: 4px;
+} */
+

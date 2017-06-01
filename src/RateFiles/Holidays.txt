@@ -1,0 +1,9 @@
+Holidays(Spelling and Capitalization must match code)
+New Year's Day
+President's Day
+Memorial Day
+Independence Day
+Labor Day
+Veterans Day
+Thanksgiving Day
+Christmas Day
